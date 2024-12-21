@@ -1,6 +1,5 @@
 # Mini_proj for fun
-
-# Mini Project: Interactive Math Learning Website
+Mini Project: Interactive Math Learning Website
 # Project Overview
 This project is a simple, interactive website designed to help users learn math in a fun and engaging way using modern web technologies. The website incorporates a clean and intuitive interface, featuring elements like menus, search boxes, and sidebars to enhance the user experience.
 
