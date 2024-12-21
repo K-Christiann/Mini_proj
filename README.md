@@ -7,7 +7,6 @@ This project is a simple, interactive website designed to help users learn math 
 Interactive Search Box: Allows users to search for math-related content.
 Responsive Layout: The layout adjusts to various screen sizes, ensuring a good user experience on both desktops and mobile devices.
 Intuitive Navigation: The website includes clear and easy-to-use menus to guide users through different sections of the site.
-Student Reviews Section: Provides valuable feedback from students about the website's effectiveness.
 Technologies Used
 HTML: For structuring the website's content.
 CSS: For styling the website, including layouts, colors, and interactivity.
